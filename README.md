@@ -1,24 +1,76 @@
-# README
+# Hello -react - rails - Back-end
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+> API for rails back-end.
 
-Things you may want to cover:
+## Front-end app
 
-* Ruby version
+[Front-End](https://github.com/chukwuemeka1234/hello-react-front-end/pull/1)
 
-* System dependencies
+## Built With
 
-* Configuration
+- Ruby
+- Ruby on Rails
 
-* Database creation
+## Getting Started
 
-* Database initialization
+- Getting a local copy is simple. Follow the steps below
 
-* How to run the test suite
+### Install
 
-* Services (job queues, cache servers, search engines, etc.)
+- Ruby
+- Ruby on Rails
+- PostgresSQL
 
-* Deployment instructions
+### Local Copy
 
-* ...
+- Clone the project
+
+```
+git clone https://github.com/chukwuemeka1234/hello-react-rails-backend.git
+
+```
+
+cd hello-rails-react-backend
+
+```
+
+### Setup
+
+Install gems:
+
+```
+bundle install
+```
+
+Setup database:
+
+```
+rails db:create
+rails db:migrate
+```
+
+### Usage
+
+Start server:
+
+```
+rails server
+```
+
+Visit http://localhost:3000/greeting in your browser.
+
+## Authors
+
+👤 **Victor Chukwuemeka**
+
+- GitHub: [@githubhandle](https://github.com/chukwuemeka1234/)
+- Twitter: [@twitterhandle](https://twitter.com/@avc_victor)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/vic-chukwuemeka/)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+## Show your support
+
+Give a ⭐️ if you like this project!
